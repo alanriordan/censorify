@@ -7,5 +7,10 @@
 	"dependencies":{},
 	"engines":{
 		"node":"*"
-	}
+	},
+	"repository":{
+		"type":"git",
+		"url":"https://github.com/alanriordan/censorify"
+	},
+	"keywords":["censor","words"]
 }
